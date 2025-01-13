@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1736775990 source:e:\facultate\anul2\sem1\poo\labs\lab13\main.cpp
+	"Serie.h"
+
+1736775525 e:\facultate\anul2\sem1\poo\labs\lab13\serie.h
+	<map>
+	"Student.h"
+
+1736775349 e:\facultate\anul2\sem1\poo\labs\lab13\student.h
+	<set>
+	<vector>
+	<algorithm>
+	"Nota.h"
+
+1736771425 e:\facultate\anul2\sem1\poo\labs\lab13\nota.h
+	<string>
+	<iostream>
+
+1736771438 source:e:\facultate\anul2\sem1\poo\labs\lab13\nota.cpp
+	"Nota.h"
+
+1736775703 source:e:\facultate\anul2\sem1\poo\labs\lab13\student.cpp
+	"Student.h"
+	<numeric>
+
+1736775703 source:e:\facultate\anul2\sem1\poo\labs\lab13\serie.cpp
+	"Serie.h"
+	<algorithm>
+	<iostream>
+
